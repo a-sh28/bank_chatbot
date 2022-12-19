@@ -61,207 +61,207 @@
             "responses":["12.00 percent per annum for female and male students for the education loan amount up to Rs. 750,000 and from 12.45 percent to 12.25 percent per annum for male and female students for the education loan amount above Rs. 750,000."]
         },
         {
-            "tag":"Branch details - citi0000001",
-            "patterns":["branches in kolkata","branch details with ifsc citi0000001","ifsc of branch in Chowringhee road"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000001\nBRANCH:kolkata\nCENTRE: kolkata\nDISTRICT:kolkata\nSTATE:west bengal\nADDRESS:Kanak Building, 41,Chowringhee Road, Kolkata -700071"]
+            "tag":"Branch details - abs0000001",
+            "patterns":["branches in kolkata","branch details with ifsc abs0000001","ifsc of branch in Chowringhee road"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000001\nBRANCH:kolkata\nCENTRE: kolkata\nDISTRICT:kolkata\nSTATE:west bengal\nADDRESS:Kanak Building, 41,Chowringhee Road, Kolkata -700071"]
         },
         {
-            "tag":"Branch details - citi0000002",
-            "patterns":["branches in new delhi","branch details with ifsc citi0000002","ifsc of branch in connaught place"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000002\nBRANCH:new delhi\nCENTRE: new delhi\nDISTRICT:new delhi\nSTATE:delhi\nADDRESS:Ground and 1st Floor, DLF Capital Point, Baba Kharak Singh Marg, Connaught Place, New Delhi -110001"]
+            "tag":"Branch details - abs0000002",
+            "patterns":["branches in new delhi","branch details with ifsc abs0000002","ifsc of branch in connaught place"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000002\nBRANCH:new delhi\nCENTRE: new delhi\nDISTRICT:new delhi\nSTATE:delhi\nADDRESS:Ground and 1st Floor, DLF Capital Point, Baba Kharak Singh Marg, Connaught Place, New Delhi -110001"]
         },
         {
-            "tag":"Branch details - citi0000003(1)",
-            "patterns":["branches in chennai","branch details with ifsc citi0000003","ifsc of branch in alwarpet"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000003\nBRANCH:alwarpet chennai\nCENTRE: chennai\nDISTRICT:chennai\nSTATE:tamil nadu\nADDRESS:50, C.P. Ramaswamy Road, 3rd Street, Abhiramapuram, Alwarpet, Chennai - 600 018"]
+            "tag":"Branch details - abs0000003(1)",
+            "patterns":["branches in chennai","branch details with ifsc abs0000003","ifsc of branch in alwarpet"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000003\nBRANCH:alwarpet chennai\nCENTRE: chennai\nDISTRICT:chennai\nSTATE:tamil nadu\nADDRESS:50, C.P. Ramaswamy Road, 3rd Street, Abhiramapuram, Alwarpet, Chennai - 600 018"]
         },
         {
-            "tag":"Branch details - citi0000003(2)",
-            "patterns":["branches in chennai","branch details with ifsc citi0000004","ifsc of branch in anna salai"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000003\nBRANCH:anna salai chennai\nCENTRE: chennai\nDISTRICT:chennai\nSTATE:tamil nadu\nADDRESS:163, Anna Salai, Chennai 600 002"]
+            "tag":"Branch details - abs0000003(2)",
+            "patterns":["branches in chennai","branch details with ifsc abs0000004","ifsc of branch in anna salai"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000003\nBRANCH:anna salai chennai\nCENTRE: chennai\nDISTRICT:chennai\nSTATE:tamil nadu\nADDRESS:163, Anna Salai, Chennai 600 002"]
         },
         {
-            "tag":"Branch details - citi0000004(1)",
-            "patterns":["branch details with ifsc citi0000004","branches in bangalore","ifsc of branch in M.G road"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000004\nBRANCH:bangalore\nCENTRE: bangalore\nDISTRICT:=bangalore\nSTATE:karnataka\nADDRESS:No. 5, M.G. Road, Bengaluru - 560 001"]
+            "tag":"Branch details - abs0000004(1)",
+            "patterns":["branch details with ifsc abs0000004","branches in bangalore","ifsc of branch in M.G road"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000004\nBRANCH:bangalore\nCENTRE: bangalore\nDISTRICT:=bangalore\nSTATE:karnataka\nADDRESS:No. 5, M.G. Road, Bengaluru - 560 001"]
         },
         {
-            "tag":"Branch details - citi0000004(2)",
-            "patterns":["branch details with ifsc citi0000004","branches in bangalore","ifsc of branch in jayanagar","jayanagar branch"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000004\nBRANCH:Jayanagar branch\nCENTRE:bangalore\nDISTRICT:bangalore Urban\nSTATE:Karnataka\nADDRESS:No. 91, Prestige South End, South End Road, Opposite Surana College, Jayanagar, Bengaluru -560004"]
+            "tag":"Branch details - abs0000004(2)",
+            "patterns":["branch details with ifsc abs0000004","branches in bangalore","ifsc of branch in jayanagar","jayanagar branch"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000004\nBRANCH:Jayanagar branch\nCENTRE:bangalore\nDISTRICT:bangalore Urban\nSTATE:Karnataka\nADDRESS:No. 91, Prestige South End, South End Road, Opposite Surana College, Jayanagar, Bengaluru -560004"]
         },
         {
-            "tag":"Branch details - citi0000005",
-            "patterns":["branch details with ifsc citi0000005","branches in pune","ifsc of branch in North park main road"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000005\nBRANCH:pune\nCENTRE: Pune\nDISTRICT:pune\nSTATE:maharahstra\nADDRESS:Ground Floor, Onyx Tower,37/3 Ghorpadi, Near Westin Hotel, North Koregaon Park Main Road, Pune – 411 001"]
+            "tag":"Branch details - abs0000005",
+            "patterns":["branch details with ifsc abs0000005","branches in pune","ifsc of branch in North park main road"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000005\nBRANCH:pune\nCENTRE: Pune\nDISTRICT:pune\nSTATE:maharahstra\nADDRESS:Ground Floor, Onyx Tower,37/3 Ghorpadi, Near Westin Hotel, North Koregaon Park Main Road, Pune – 411 001"]
         },
         {
-            "tag":"Branch details - citi0000006",
-            "patterns":["branch details with ifsc citi0000006","branches in Hyderabad ","ifsc of branch in begumpet"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000006\nBRANCH:hyderabad\nCENTRE: hyderabad\nDISTRICT:hyderabad\nSTATE:telangana\nADDRESS:Ground Floor, Queens Plaza , S.P. Road, Begumpet, Secunderabad - 500 003"]
+            "tag":"Branch details - abs0000006",
+            "patterns":["branch details with ifsc abs0000006","branches in Hyderabad ","ifsc of branch in begumpet"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000006\nBRANCH:hyderabad\nCENTRE: hyderabad\nDISTRICT:hyderabad\nSTATE:telangana\nADDRESS:Ground Floor, Queens Plaza , S.P. Road, Begumpet, Secunderabad - 500 003"]
         },
         {
-            "tag":"Branch details - citi0000007",
-            "patterns":["branch details with ifsc citi0000007","branches in ahmedabad","ifsc of branch in c.g road"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:CITI0000007\nBRANCH:ahmedabad\nCENTRE:ahmedabad \nDISTRICT:ahmedabad\nSTATE:Gujarat\nADDRESS:Ground Floor, Kalapurnam, Near Municipal Market,C.G Road, Ahmedabad-380 009"]
+            "tag":"Branch details - abs0000007",
+            "patterns":["branch details with ifsc abs0000007","branches in ahmedabad","ifsc of branch in c.g road"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:CITI0000007\nBRANCH:ahmedabad\nCENTRE:ahmedabad \nDISTRICT:ahmedabad\nSTATE:Gujarat\nADDRESS:Ground Floor, Kalapurnam, Near Municipal Market,C.G Road, Ahmedabad-380 009"]
         },
         {
-            "tag":"Branch details - citi0000008",
-            "patterns":["branch details with ifsc citi0000008","branches in vadodara","ifsc of branch in gotri road"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000008\nBRANCH:baroda\nCENTRE:vadodara \nDISTRICT:vadodara\nSTATE:gujarat\nADDRESS:Ground Floor, Pelican, Opp. Race Course Towers, Gotri Road, Vadodara - 390 007"]
+            "tag":"Branch details - abs0000008",
+            "patterns":["branch details with ifsc abs0000008","branches in vadodara","ifsc of branch in gotri road"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000008\nBRANCH:baroda\nCENTRE:vadodara \nDISTRICT:vadodara\nSTATE:gujarat\nADDRESS:Ground Floor, Pelican, Opp. Race Course Towers, Gotri Road, Vadodara - 390 007"]
         },
         {
-            "tag":"Branch details - citi0000009",
-            "patterns":["branch details with ifsc citi0000009","branches in jaipur","ifsc of branch in M I road"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:CITI0000009\nBRANCH:jaipur\nCENTRE:japipur\nDISTRICT:jaipur\nSTATE:rajasthan\nADDRESS:Ground Floor, Bhagwati Bhawan, Government Hostel Crossing, M I Road, Jaipur-302 001"]
+            "tag":"Branch details - abs0000009",
+            "patterns":["branch details with ifsc abs0000009","branches in jaipur","ifsc of branch in M I road"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:CITI0000009\nBRANCH:jaipur\nCENTRE:japipur\nDISTRICT:jaipur\nSTATE:rajasthan\nADDRESS:Ground Floor, Bhagwati Bhawan, Government Hostel Crossing, M I Road, Jaipur-302 001"]
         },
         {
-            "tag":"Branch details - citi0000011",
-            "patterns":["branch details with ifsc citi0000011","branches in coimbatore","ifsc of branch in avinashi road"],
-            "responses":["\n\nBANK NAME:CITIBANK\n IFSC:citi0000011\nBRANCH:coimbatore\nCENTRE:coimbatore \nDISTRICT:coimbatore\nSTATE:tamil nadu\nADDRESS:657, Tristar Towers, Avinashi Road, Coimbatore -641037"]
+            "tag":"Branch details - abs0000011",
+            "patterns":["branch details with ifsc abs0000011","branches in coimbatore","ifsc of branch in avinashi road"],
+            "responses":["\n\nBANK NAME:ABS BANK\n IFSC:abs0000011\nBRANCH:coimbatore\nCENTRE:coimbatore \nDISTRICT:coimbatore\nSTATE:tamil nadu\nADDRESS:657, Tristar Towers, Avinashi Road, Coimbatore -641037"]
         },
         {
-            "tag":"Branch details - citi0000012",
-            "patterns":["branch details with ifsc citi0000012","branches in cochin ","ifsc of branch in ernakulam"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000012\nBRANCH:kochi\nCENTRE:cochin \nDISTRICT:ernakulam\nSTATE:kerala\nADDRESS:38/1581 Fotofast House, M G Road, Ernakulam, Kochi - 682 035"]
+            "tag":"Branch details - abs0000012",
+            "patterns":["branch details with ifsc abs0000012","branches in cochin ","ifsc of branch in ernakulam"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000012\nBRANCH:kochi\nCENTRE:cochin \nDISTRICT:ernakulam\nSTATE:kerala\nADDRESS:38/1581 Fotofast House, M G Road, Ernakulam, Kochi - 682 035"]
         },
         {
-            "tag":"Branch details - citi0000013",
-            "patterns":["branch details with ifsc citi0000013","branches in chandigarh","ifsc of branch in madhya margh"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000013\nBRANCH:chandigarh\nCENTRE:chandigarh \nDISTRICT:chandigarh\nSTATE:chandigarh\nADDRESS:SCO 4-5, Sector 8 C, Madhya Marg, Chandigarh, 160009"]
+            "tag":"Branch details - abs0000013",
+            "patterns":["branch details with ifsc abs0000013","branches in chandigarh","ifsc of branch in madhya margh"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000013\nBRANCH:chandigarh\nCENTRE:chandigarh \nDISTRICT:chandigarh\nSTATE:chandigarh\nADDRESS:SCO 4-5, Sector 8 C, Madhya Marg, Chandigarh, 160009"]
         },
         {
-            "tag":"Branch details - citi0000014",
-            "patterns":["branch details with ifsc citi0000014","branches in gurgaon","ifsc of branch in gurgaon"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000014\nBRANCH:gurgaon\nCENTRE:gurgaon\nDISTRICT:gurgaon\nSTATE:haryana\nADDRESS:Ground Floor, DLF Square, M Block, Jacaranda Marg, DLF City, Phase 2, Gurgaon-122 002"]
+            "tag":"Branch details - abs0000014",
+            "patterns":["branch details with ifsc abs0000014","branches in gurgaon","ifsc of branch in gurgaon"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000014\nBRANCH:gurgaon\nCENTRE:gurgaon\nDISTRICT:gurgaon\nSTATE:haryana\nADDRESS:Ground Floor, DLF Square, M Block, Jacaranda Marg, DLF City, Phase 2, Gurgaon-122 002"]
         },
         {
-            "tag":"Branch details - citi0000015",
-            "patterns":["branch details with ifsc citi0000015","branches in surat","ifsc of branch in Ghod dod road"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000015\nBRANCH:surat\nCENTRE:surat \nDISTRICT:surat\nSTATE:gujarat\nADDRESS:14, Adarsh Society, Opp. Kakadia Complex, Ghod Dod Road, Surat - 395 007"]
+            "tag":"Branch details - abs0000015",
+            "patterns":["branch details with ifsc abs0000015","branches in surat","ifsc of branch in Ghod dod road"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000015\nBRANCH:surat\nCENTRE:surat \nDISTRICT:surat\nSTATE:gujarat\nADDRESS:14, Adarsh Society, Opp. Kakadia Complex, Ghod Dod Road, Surat - 395 007"]
         },
         {
-            "tag":"Branch details - citi0000016",
-            "patterns":["branch details with ifsc citi0000016","branches in lucknow","ifsc of branch in lucknow"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000016\nBRANCH:lucknow\nCENTRE:lucknow \nDISTRICT:lucknow\nSTATE:uttar pradesh\nADDRESS:17/1, Ashok Marg, Ground Floor, Lucknow-226 001"]
+            "tag":"Branch details - abs0000016",
+            "patterns":["branch details with ifsc abs0000016","branches in lucknow","ifsc of branch in lucknow"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000016\nBRANCH:lucknow\nCENTRE:lucknow \nDISTRICT:lucknow\nSTATE:uttar pradesh\nADDRESS:17/1, Ashok Marg, Ground Floor, Lucknow-226 001"]
         },
         {
-            "tag":"Branch details - citi0000017",
-            "patterns":["branch details with ifsc citi0000017","branches in noida ","ifsc of branch in noida"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000017\nBRANCH:noida\nCENTRE:noida \nDISTRICT:noida\nSTATE:uttar pradesh\nADDRESS:Ground Floor, Som Datt Tower, K-2, Sector-18, Noida – 201 301"]
+            "tag":"Branch details - abs0000017",
+            "patterns":["branch details with ifsc abs0000017","branches in noida ","ifsc of branch in noida"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000017\nBRANCH:noida\nCENTRE:noida \nDISTRICT:noida\nSTATE:uttar pradesh\nADDRESS:Ground Floor, Som Datt Tower, K-2, Sector-18, Noida – 201 301"]
         },
         {
-            "tag":"Branch details - citi0000019",
-            "patterns":["branch details with ifsc citi0000019","branches in aurangabad","ifsc of branch in Aurangapura"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000019\nBRANCH:aurangabad\nCENTRE:aurangabad \nDISTRICT:aurangabad\nSTATE:maharashtra\nADDRESS:Saraswati Sankul, Opposite S.B. Bus Stop, Aurangapura, Aurangabad - 431 001"]
+            "tag":"Branch details - abs0000019",
+            "patterns":["branch details with ifsc abs0000019","branches in aurangabad","ifsc of branch in Aurangapura"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000019\nBRANCH:aurangabad\nCENTRE:aurangabad \nDISTRICT:aurangabad\nSTATE:maharashtra\nADDRESS:Saraswati Sankul, Opposite S.B. Bus Stop, Aurangapura, Aurangabad - 431 001"]
         },
         {
-            "tag":"Branch details - citi0000022",
-            "patterns":["branch details with ifsc citi0000022","branches in nashik","ifsc of branch in College Road"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000022\nBRANCH:nashik\nCENTRE:nashik \nDISTRICT:nashik\nSTATE:maharashtra\nADDRESS:Rushiraj Presidency, Opp. Bhosala Military School, 52, 53, D'Souza Colony, College Road, Nasik - 422 005"]
+            "tag":"Branch details - abs0000022",
+            "patterns":["branch details with ifsc abs0000022","branches in nashik","ifsc of branch in College Road"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000022\nBRANCH:nashik\nCENTRE:nashik \nDISTRICT:nashik\nSTATE:maharashtra\nADDRESS:Rushiraj Presidency, Opp. Bhosala Military School, 52, 53, D'Souza Colony, College Road, Nasik - 422 005"]
         },
         {
-            "tag":"Branch details - citi00000CF",
-            "patterns":["branch details with ifsc citi00000CF","branches in Mumbai ","ifsc of branch in Bandra east bank funding division","citi00000CF","corr bank funding division"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi00000CF\nBRANCH:Mumbai(Corr Bank Funding Division) Mumbai\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
+            "tag":"Branch details - abs00000CF",
+            "patterns":["branch details with ifsc abs00000CF","branches in Mumbai ","ifsc of branch in Bandra east bank funding division","abs00000CF","corr bank funding division"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs00000CF\nBRANCH:Mumbai(Corr Bank Funding Division) Mumbai\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
         },
         {
-            "tag":"Branch details - citi00000DX",
-            "patterns":["branch details with ifsc citi00000DX","branches in Mumbai","ifsc of branch in bandra east derivatives division","citi00000DX","derivates division"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi00000DX\nBRANCH:Mumbai(Derivatives Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
+            "tag":"Branch details - abs00000DX",
+            "patterns":["branch details with ifsc abs00000DX","branches in Mumbai","ifsc of branch in bandra east derivatives division","abs00000DX","derivates division"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs00000DX\nBRANCH:Mumbai(Derivatives Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
         },
         {
-            "tag":"Branch details - citi00000FT",
-            "patterns":["branch details with ifsc citi00000FT","branches in mumbai","ifsc of branch in bandra east funds transfer division","citi00000FT","funds transfer division"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi00000FT\nBRANCH:Mumbai(Funds Transfer Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
+            "tag":"Branch details - abs00000FT",
+            "patterns":["branch details with ifsc abs00000FT","branches in mumbai","ifsc of branch in bandra east funds transfer division","abs00000FT","funds transfer division"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs00000FT\nBRANCH:Mumbai(Funds Transfer Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
            
         },
         {
-            "tag":"Branch details - citi00000FX",
-            "patterns":["branch details with ifsc citi00000FX","branches in mumbai","ifsc of branch in bandra east forex division","citi00000FX","forex division"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi00000FX\nBRANCH:Mumbai(Forex Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
+            "tag":"Branch details - abs00000FX",
+            "patterns":["branch details with ifsc abs00000FX","branches in mumbai","ifsc of branch in bandra east forex division","abs00000FX","forex division"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs00000FX\nBRANCH:Mumbai(Forex Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
            
         },
         {
-            "tag":"Branch details - citi00000MM",
-            "patterns":["branch details with ifsc citi00000MM","branches in mumbai ","ifsc of branch in bandra east money market division","citi00000MM","money market division"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi00000MM\nBRANCH:Mumbai(Money Market Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
+            "tag":"Branch details - abs00000MM",
+            "patterns":["branch details with ifsc abs00000MM","branches in mumbai ","ifsc of branch in bandra east money market division","abs00000MM","money market division"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs00000MM\nBRANCH:Mumbai(Money Market Division)\nCENTRE: Mumbai\nDISTRICT:Greater Bombay\nSTATE:Maharashtra\nADDRESS:FIFC, Bandra Kurla Complex, Plot No C54, C55, G Block, Bandra East, Mumbai 400051"]
             
         },
         {
-            "tag":"Branch details - citi0100000",
-            "patterns":["branch details with ifsc citi0100000","branches in mumbai","ifsc of branch in D.N road","citi0100000"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0100000\nBRANCH:fort branch\nCENTRE:mumbai\nDISTRICT:Greater BOmbay\nSTATE:Maharshtra\nADDRESS:Bombay Mutual Building, 293, D.N. Road, Fort, Mumbai 400 001"]
+            "tag":"Branch details - abs0100000",
+            "patterns":["branch details with ifsc abs0100000","branches in mumbai","ifsc of branch in D.N road","abs0100000"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0100000\nBRANCH:fort branch\nCENTRE:mumbai\nDISTRICT:Greater BOmbay\nSTATE:Maharshtra\nADDRESS:Bombay Mutual Building, 293, D.N. Road, Fort, Mumbai 400 001"]
         },
         {
-            "tag":"Branch details - citi0000027",
-            "patterns":["branch details with ifsc citi0000027","branches in faridabad","ifsc of branch in mathura road"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000027\nBRANCH:faridabad\nCENTRE:faridabad \nDISTRICT:faridabad\nSTATE:haryana\nADDRESS:24-27, Lower Ground Floor, Crown Ansal Plaza, Sector 15A, Mathura Road, Faridabad - 121 007"]
+            "tag":"Branch details - abs0000027",
+            "patterns":["branch details with ifsc abs0000027","branches in faridabad","ifsc of branch in mathura road"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000027\nBRANCH:faridabad\nCENTRE:faridabad \nDISTRICT:faridabad\nSTATE:haryana\nADDRESS:24-27, Lower Ground Floor, Crown Ansal Plaza, Sector 15A, Mathura Road, Faridabad - 121 007"]
         },
         {
-            "tag":"Branch details - citi0000028",
-            "patterns":["branch details with ifsc citi0000028","branches in kolkata","ifsc of branch in brabourne road"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000028\nBRANCH:Brabourne(Kolkata)\nCENTRE:kolkata \nDISTRICT:kolkata\nSTATE:west bengal\nADDRESS:9, Brabourne Road, Ground Floor, Kolkata - 700 001"]
+            "tag":"Branch details - abs0000028",
+            "patterns":["branch details with ifsc abs0000028","branches in kolkata","ifsc of branch in brabourne road"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000028\nBRANCH:Brabourne(Kolkata)\nCENTRE:kolkata \nDISTRICT:kolkata\nSTATE:west bengal\nADDRESS:9, Brabourne Road, Ground Floor, Kolkata - 700 001"]
         },
         {
-            "tag":"Branch details - citi0000029",
-            "patterns":["branch details with ifsc citi0000029","branches in New delhi ","ifsc of branch in Nehru place"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000029\nBRANCH:Nehru Place Branch\nCENTRE: Delhi\nDISTRICT:Delhi\nSTATE:Delhi\nADDRESS:Ground Floor, International Trade Tower, Nehru Place, New Delhi - 110 019"]
+            "tag":"Branch details - abs0000029",
+            "patterns":["branch details with ifsc abs0000029","branches in New delhi ","ifsc of branch in Nehru place"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000029\nBRANCH:Nehru Place Branch\nCENTRE: Delhi\nDISTRICT:Delhi\nSTATE:Delhi\nADDRESS:Ground Floor, International Trade Tower, Nehru Place, New Delhi - 110 019"]
         },
         {
-            "tag":"Branch details - citi0000030",
-            "patterns":["branch details with ifsc citi0000030","branches in delhi ","ifsc of branch in vasant vihar"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000030\nBRANCH:vasanth vihar\nCENTRE:delhi \nDISTRICT:delhi \nSTATE:delhi \nADDRESS:33, Basant Lok, Vasant Vihar, Priya PVR Complex, New Delhi - 110 057"]
+            "tag":"Branch details - abs0000030",
+            "patterns":["branch details with ifsc abs0000030","branches in delhi ","ifsc of branch in vasant vihar"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000030\nBRANCH:vasanth vihar\nCENTRE:delhi \nDISTRICT:delhi \nSTATE:delhi \nADDRESS:33, Basant Lok, Vasant Vihar, Priya PVR Complex, New Delhi - 110 057"]
         },
         {
-            "tag":"Branch details - citi0000031",
-            "patterns":["branch details with ifsc citi0000031","branches in delhi","ifsc of branch in Punjabi Bagh"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000031\nBRANCH:punjabi bagh branch\nCENTRE:delhi \nDISTRICT:delhi\nSTATE:delhi\nADDRESS:27, Central Market, Sector II, Western Avenue Road, Punjabi Bagh West, Delhi - 110 026"]
+            "tag":"Branch details - abs0000031",
+            "patterns":["branch details with ifsc abs0000031","branches in delhi","ifsc of branch in Punjabi Bagh"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000031\nBRANCH:punjabi bagh branch\nCENTRE:delhi \nDISTRICT:delhi\nSTATE:delhi\nADDRESS:27, Central Market, Sector II, Western Avenue Road, Punjabi Bagh West, Delhi - 110 026"]
         },
         {
-            "tag":"Branch details - citi0000032",
-            "patterns":["branch details with ifsc citi0000032","branches in delhi","ifsc of branch in south extension"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000032\nBRANCH:south extension branch\nCENTRE:delhi \nDISTRICT:delhi\nSTATE:delhi\nADDRESS:Level 1, Gurmehar, A 12, Ring Road, South Extension Part 1, New Delhi - 110049"]
+            "tag":"Branch details - abs0000032",
+            "patterns":["branch details with ifsc abs0000032","branches in delhi","ifsc of branch in south extension"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000032\nBRANCH:south extension branch\nCENTRE:delhi \nDISTRICT:delhi\nSTATE:delhi\nADDRESS:Level 1, Gurmehar, A 12, Ring Road, South Extension Part 1, New Delhi - 110049"]
         },
         {
-            "tag":"Branch details - citi0100000(2)",
-            "patterns":["branch details with ifsc citi0100000","branches in Andheri ","ifsc of branch in andheri"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0100000\nBRANCH:andheri\nCENTRE:mumbai \nDISTRICT:Greater bombay\nSTATE:maharashtra\nADDRESS:Times Square IT Park, Wing B, Unit No. 1, Andheri Kurla Road, Marol Andheri (E), Mumbai - 400 059"]
+            "tag":"Branch details - abs0100000(2)",
+            "patterns":["branch details with ifsc abs0100000","branches in Andheri ","ifsc of branch in andheri"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0100000\nBRANCH:andheri\nCENTRE:mumbai \nDISTRICT:Greater bombay\nSTATE:maharashtra\nADDRESS:Times Square IT Park, Wing B, Unit No. 1, Andheri Kurla Road, Marol Andheri (E), Mumbai - 400 059"]
         },
         {
-            "tag":"Branch details - citi0000036",
-            "patterns":["branch details with ifsc citi0000036","branches in palladium","ifsc of branch in paaladium"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000036\nBRANCH:palladium\nCENTRE:Mumbai\nDISTRICT:greater bombay\nSTATE:maharashtra\nADDRESS:Ground floor, Shop no.G9 & G10, Palladium, Phoenix Mills Compound, 462, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013"]
+            "tag":"Branch details - abs0000036",
+            "patterns":["branch details with ifsc abs0000036","branches in palladium","ifsc of branch in paaladium"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000036\nBRANCH:palladium\nCENTRE:Mumbai\nDISTRICT:greater bombay\nSTATE:maharashtra\nADDRESS:Ground floor, Shop no.G9 & G10, Palladium, Phoenix Mills Compound, 462, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013"]
         },
         {
-            "tag":"Branch details - citi0000037",
-            "patterns":["branch details with ifsc citi0000037","branches in mumbai bkc ","ifsc of branch in bkc"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi000037\nBRANCH:bkc\nCENTRE: mumbai\nDISTRICT:greater bombay\nSTATE:maharashtra\nADDRESS:Ground Floor, FIFC Building, G-Block, Plot no c-54 and C55, Bandra Kurla Complex, Bandra (East), Mumbai - 400 098"]
+            "tag":"Branch details - abs0000037",
+            "patterns":["branch details with ifsc abs0000037","branches in mumbai bkc ","ifsc of branch in bkc"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs000037\nBRANCH:bkc\nCENTRE: mumbai\nDISTRICT:greater bombay\nSTATE:maharashtra\nADDRESS:Ground Floor, FIFC Building, G-Block, Plot no c-54 and C55, Bandra Kurla Complex, Bandra (East), Mumbai - 400 098"]
         },
         {
-            "tag":"Branch details - citi0000038",
-            "patterns":["branch details with ifsc citi0000038","branches in vashi ","ifsc of branch in vashi"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000038\nBRANCH:vashi\nCENTRE:new bombay\nDISTRICT:thane\nSTATE:maharashtra\nADDRESS:Mahatma Phule Bhavan, Palm Beach Road Junction, Sector 17, Vashi, Navi Mumbai - 400 705"]
+            "tag":"Branch details - abs0000038",
+            "patterns":["branch details with ifsc abs0000038","branches in vashi ","ifsc of branch in vashi"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000038\nBRANCH:vashi\nCENTRE:new bombay\nDISTRICT:thane\nSTATE:maharashtra\nADDRESS:Mahatma Phule Bhavan, Palm Beach Road Junction, Sector 17, Vashi, Navi Mumbai - 400 705"]
         },
         {
-            "tag":"Branch details - citi0000039",
-            "patterns":["branch details with ifsc citi0000039","branches in khar","ifsc of branch in khar"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000039\nBRANCH:khar\nCENTRE:mumbai\nDISTRICT:reater bombay\nSTATE:maharashtra\nADDRESS:322, West View Building, Linking Road, Khar (West), Mumbai - 400 052"]
+            "tag":"Branch details - abs0000039",
+            "patterns":["branch details with ifsc abs0000039","branches in khar","ifsc of branch in khar"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000039\nBRANCH:khar\nCENTRE:mumbai\nDISTRICT:reater bombay\nSTATE:maharashtra\nADDRESS:322, West View Building, Linking Road, Khar (West), Mumbai - 400 052"]
         },
         {
-            "tag":"Branch details - citi0000046",
-            "patterns":["branch details with ifsc citi0000046","branches in nagpur","ifsc of branch in nagpur"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000046\nBRANCH:nagpur\nCENTRE:nagpur \nDISTRICT:nagpur\nSTATE:nagpur\nADDRESS:Nexus Point, Shop No. 1, Opp. Vidhan Bhawan, Civil Lines, Nagpur – 440 001."]
+            "tag":"Branch details - abs0000046",
+            "patterns":["branch details with ifsc abs0000046","branches in nagpur","ifsc of branch in nagpur"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000046\nBRANCH:nagpur\nCENTRE:nagpur \nDISTRICT:nagpur\nSTATE:nagpur\nADDRESS:Nexus Point, Shop No. 1, Opp. Vidhan Bhawan, Civil Lines, Nagpur – 440 001."]
         },
         {
-            "tag":"Branch details - citi0000047",
-            "patterns":["branch details with ifsc citi0000047","branches in Serilingampally ","ifsc of branch in Serilingampally"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:citi0000047\nBRANCH:Serilingampally\nCENTRE:hyderabad \nDISTRICT:ranga reddy\nSTATE:telangana\nADDRESS:Unit No. 1, Apurupa Silpi, Survey No. 124, Gachibowli Village, Serilingampally Mandal, Hyderabad, Ranga Reddy District - 500 032"]
+            "tag":"Branch details - abs0000047",
+            "patterns":["branch details with ifsc abs0000047","branches in Serilingampally ","ifsc of branch in Serilingampally"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:abs0000047\nBRANCH:Serilingampally\nCENTRE:hyderabad \nDISTRICT:ranga reddy\nSTATE:telangana\nADDRESS:Unit No. 1, Apurupa Silpi, Survey No. 124, Gachibowli Village, Serilingampally Mandal, Hyderabad, Ranga Reddy District - 500 032"]
         },
         {
-            "tag":"Branch details - citi0000048",
-            "patterns":["branch details with ifsc citi0000048","branches in thane ","ifsc of branch in thane"],
-            "responses":["\n\n\nBANK NAME:CITIBANK\n IFSC:0000048\nBRANCH:thane\nCENTRE:mumbai \nDISTRICT:thane\nSTATE:maharashtra\nADDRESS:Ground Floor, Shop No. 2., Wing A, Lalani Residency, Survey No. 199/4, Village Kavesar, Opp. Suraj Water Park, Near Waghbil Naka, Ghodbunder Road, Thane (West) - 400 615"]
+            "tag":"Branch details - abs0000048",
+            "patterns":["branch details with ifsc abs0000048","branches in thane ","ifsc of branch in thane"],
+            "responses":["\n\n\nBANK NAME:ABS BANK\n IFSC:0000048\nBRANCH:thane\nCENTRE:mumbai \nDISTRICT:thane\nSTATE:maharashtra\nADDRESS:Ground Floor, Shop No. 2., Wing A, Lalani Residency, Survey No. 199/4, Village Kavesar, Opp. Suraj Water Park, Near Waghbil Naka, Ghodbunder Road, Thane (West) - 400 615"]
         }
       ]
     }
